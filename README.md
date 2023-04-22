@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/smlamod/qr-code-component)
+- Live Site URL: [qr-code-component](https://smlamod.github.io/qr-code-component)
 
 ## My process
 
@@ -44,9 +44,9 @@ The browser's useragent proved to give the body a margin of 8px that made the co
 
 ```css
 // user agent style sheet
-body { 
-    display: block;
-    margin: 8px;
+body {
+  display: block;
+  margin: 8px;
 }
 
 .container {
